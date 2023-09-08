@@ -13,6 +13,9 @@ anothernum = 47.7
 print(type(mynum))
 print(type(anothernum))
 
+
+
+
 # bools - True, False
 flag = True
 print(flag)
@@ -59,7 +62,7 @@ def add_two(n: int):
 assert add_two(5) == 7, "add_two with input 5 test"
 assert add_two(-2) == 0, "add_two with input -2 test"
 assert add_two(0) == 2, "add_two with input 0 test"
-
+assert add_two(10)==12,"add_two with input 10 test"
 # Loops
 
 # For Loop Template 1
@@ -83,8 +86,18 @@ print(lst)
 
 # Dictionaries
 
-dict = {"name": "rob", "age": 30}
-print(dict["age"])
+dict ={"name":"rob","age" : 30, "city": "Chicago"}
+
+print(dict.get("name", "age," "city"))
+
+dict = {"name": "Cristian",}
+
+
+
+
+
+
+
 
 # Random
 import random
@@ -92,6 +105,20 @@ import random
 food = ['pizza', 'carrots', 'eggs']
 dinner = random.choice(food)
 print(dinner)
+
+
+
+pizza = 'cheese','sauce','bacon','peperoni'
+for el in pizza:
+    print(pizza)
+
+
+for r in range(len(pizza)):
+    if pizza[r]== 'bacon':
+        pizza[r]=='peperoni'
+print(pizza)
+
+
 
 # f String
 age = 25
