@@ -13,11 +13,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-
+ I orifinally thought the program was going to be harder to learn because I have never learned java.
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
-
+ The command to print is almost the same as java however you don't have to coniously call to system in a tedious way to print.
+ As for java  you have to call for the sytem with the command Syste.out.print (); 
+ 
 
 3. What are some things that you learned through this assignment?
