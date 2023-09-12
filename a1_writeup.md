@@ -22,3 +22,4 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
  
 
 3. What are some things that you learned through this assignment?
+how to make lists  and manipulate the lists for different math functions
